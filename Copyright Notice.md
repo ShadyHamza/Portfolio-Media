@@ -2,7 +2,7 @@ Copyright Notice
 
 Copyright © 2026 Shady Hamza. All Rights Reserved.
 
-The concept art, illustrations, designs, and other visual assets contained in this repository are the intellectual property of Shady Hamza unless otherwise stated.
+The concept art, illustrations, designs contained in this repository are the intellectual property of Shady Hamza unless otherwise stated.
 
 These images are provided for viewing and portfolio purposes only. You may not copy, reproduce, modify, redistribute, use in derivative works, train AI models, or use them for commercial or non-commercial purposes without my prior written permission.
 
