@@ -1,6 +1,6 @@
 Copyright Notice
 
-Copyright © 2026 Shady Hamza. All Rights Reserved.
+Copyright © Shady Hamza. All Rights Reserved.
 
 The concept art, illustrations, designs contained in this repository are the intellectual property of Shady Hamza unless otherwise stated.
 
