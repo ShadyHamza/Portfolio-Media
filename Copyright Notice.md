@@ -8,4 +8,4 @@ These images are provided for viewing and portfolio purposes only. You may not c
 
 The source code in this repository (if any) may be licensed separately under its respective license. This copyright notice applies specifically to the artwork and visual assets.
 
-For licensing inquiries or permission requests, please contact me through my GitHub profile or another official contact method listed in this repository.
+For licensing inquiries or permission requests, please contact me through my website.
